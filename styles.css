@@ -1,0 +1,31 @@
+html {
+font-family: 'Yeon Sung', cursive;
+background-color: black;
+color: white;
+}
+
+p{
+
+border-radius: 25px;
+padding: 25px;
+
+}
+
+img {
+
+border-radius: 15000000px;
+width: 240px;
+
+}
+
+button {
+
+background-color: white;
+color: black;
+border-radius: 25px;
+
+}
+
+button a p {
+	padding: 0px;
+}																									
